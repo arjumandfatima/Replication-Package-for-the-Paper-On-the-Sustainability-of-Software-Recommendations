@@ -12,3 +12,4 @@ For any information, interested researchers can contact us by sending an email t
 
 ## How to cite the dataset
 ## Pre-requisites
+You first need to download the quarterly updated data dump of _Software Recommendations_ site as explained [here](https://stackoverflow.com/help/data-dumps). We have utilized the data dump published in October 2025. 
