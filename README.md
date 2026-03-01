@@ -1,8 +1,9 @@
-# Replication-Package-for-the-Paper-On-the-Sustainability-of-Software-Recommendations
+# Replication Package for the Paper On the Sustainability of Software Recommendations : Analyzing the Least Answered Site of the Stack Exchange Network
 
 
-## DOI to be added
-This repository contains the replication package of the paper submitted to the Journal of Software Engineering and Knowledge Engineering with the title _On the Sustainability of Software Recommendations: Analyzing the Least Answered Site of the Stack Exchange Network_
+## DOI
+[https://doi.org/10.6084/m9.figshare.31101205](https://doi.org/10.6084/m9.figshare.31101205)
+This repository contains the replication package of the paper submitted to the Data Journal (MDPI) with the title _On the Sustainability of Software Recommendations: Analyzing the Least Answered Site of the Stack Exchange Network_
 
 This study has been designed, developed, and reported by the following investigators:
 1. Ms. Arjumand Fatima (Department of Computer Science, Quaid-i-Azam University)
