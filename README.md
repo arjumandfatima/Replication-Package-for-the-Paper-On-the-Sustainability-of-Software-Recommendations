@@ -22,7 +22,8 @@ This work is licensed under a
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 <br>
 
-## How to cite the dataset
+## How to cite the paper and the dataset
+Fatima, Arjumand, and Onaiza Maqbool. "On the Sustainability of Software Recommendations: Analyzing the Least-Answered Site on the Stack Exchange Network." Data 11.3 (2026): 58. <br>
 Fatima, Arjumand; Maqbool, Onaiza (2026). Replication Package Accompanying Paper - On the Sustainability of Software Recommendations- Analysing the. figshare. Dataset. https://doi.org/10.6084/m9.figshare.31101205.v3
 ## Pre-requisites
 You first need to download the quarterly updated data dump of _Software Recommendations_ site as explained [here](https://stackoverflow.com/help/data-dumps). We have utilized the data dump published in October 2025. 
